@@ -9,4 +9,5 @@
 6. Вывод прогноза - на экране отобразятся 
 - даты начала последующих менструальных циклов
 - дни овуляции
+7. Приложения размещено на https://huggingface.co/Maria15
 ![Dias-fertiles-de-una-mujer.jpg](Dias-fertiles-de-una-mujer.jpg)
