@@ -5,6 +5,12 @@ import datetime
 from PIL import Image
 import pandas as pd
 from datetime import timedelta
+import time
+
+# Простой заголовок в самом начале
+st.set_page_config(page_title="My App", layout="wide")
+st.title("🚀 Мое приложение запущено!")
+st.write(f"Приложение запущено: {time.strftime('%Y-%m-%d %H:%M:%S')}")
 
 # ====================== главная страница ============================
 # параметры главной страницы
